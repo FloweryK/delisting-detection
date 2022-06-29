@@ -1,0 +1,25 @@
+# common
+__pycache__/
+.idea/
+**.png
+**.jpg
+venv/
+
+# temp file
+temp.py
+
+# tensorboard
+runs/
+
+# Mac
+.DS_Store
+
+# Data samples
+data/
+**/t.py
+**/test.**
+cache/
+
+# w2v models
+**.w2v
+**.npy
